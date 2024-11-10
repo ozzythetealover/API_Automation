@@ -21,6 +21,7 @@
    cd API_Automation
 
 3.**Install required dependencies**:
+   ```bash
    pip install -r requirements.txt
 
 ## Usage
