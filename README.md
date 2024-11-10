@@ -4,8 +4,6 @@
 [JSONPlaceholder]sitesindeki `/posts` endpoint'ini kullanarak bir dizi test senaryosu yazılmıştır.
 Yanıtın başarılı olup olmadığı, JSON verisinin bir dizi (array) olup olmadığı, gerekli alanların var olup olmadığı, id:1 için 'title' değeri, dizinin uzunluğu, Her bir öğede 'userId' alanının pozitif tamsayı olup olmadığı senaryo olarak yazılmış ve sonuçlar terminale basılmıştır.
 
-Ayrıca bir diğer görev olan [Restful Broker](https://restful-booker.herokuapp.com) uygulaması için POSTMAN üzerinden yapılan API test senaryoları da bu repo altına eklenmiştir. (Akakce.postman_collection.json) dosyası postman uygulamasına export edilerek kontroller sağlanabilir.
-
 ## Installation
 
 1. **Clone the repository**:
@@ -27,4 +25,6 @@ Ayrıca bir diğer görev olan [Restful Broker](https://restful-booker.herokuapp
    ```bash
 python3 main.py
 ```
-   
+
+Ayrıca bir diğer görev olan [Restful Broker](https://restful-booker.herokuapp.com) uygulaması için POSTMAN üzerinden yapılan API test senaryoları da bu repo altına eklenmiştir. (Akakce.postman_collection.json) dosyası postman uygulamasına export edilerek kontroller sağlanabilir.
+
