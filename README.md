@@ -21,10 +21,14 @@
    cd API_Automation
 
 3.**Install required dependencies**:
-   ```bash
+      ```bash
    pip install -r requirements.txt
+
+
+
 ## Usage
 **Run the program**
+```bash
 python3 main.py
 
    
