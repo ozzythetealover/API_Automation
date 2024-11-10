@@ -17,6 +17,7 @@
    git clone https://github.com/ozzythetealover/API_Automation.git
    
 2. **Navigate to the project directory**:
+   ```bash
    cd API_Automation
 
 3.**Install required dependencies**:
