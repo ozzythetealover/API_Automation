@@ -15,20 +15,20 @@
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/ozzythetealover/API_Automation.git
-   
+   ```
 2. **Navigate to the project directory**:
    ```bash
    cd API_Automation
-
+   ```
 3.**Install required dependencies**:
-      ```bash
+   ```bash
    pip install -r requirements.txt
-
+   ```
 
 
 ## Usage
 **Run the program**
    ```bash
 python3 main.py
-
+```
    
