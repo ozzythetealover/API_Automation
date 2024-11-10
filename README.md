@@ -28,7 +28,7 @@
 
 ## Usage
 **Run the program**
-```bash
+   ```bash
 python3 main.py
 
    
