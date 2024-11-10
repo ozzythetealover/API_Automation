@@ -8,11 +8,11 @@ Yanıtın başarılı olup olmadığı, JSON verisinin bir dizi (array) olup olm
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/ozzythetealover/API_Automation.git
+   git clone https://github.com/ozzythetealover/REST_API_Automation.git
    ```
 2. **Navigate to the project directory**:
    ```bash
-   cd API_Automation
+   cd REST_API_Automation
    ```
 3.**Install required dependencies**:
    ```bash
